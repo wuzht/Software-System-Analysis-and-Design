@@ -1,4 +1,4 @@
-# 系统分析与设计 - Homework 1
+# SWSAD - Homework 1
 
 > Software System Analysis and Design
 >
